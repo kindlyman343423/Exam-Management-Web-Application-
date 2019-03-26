@@ -8,8 +8,8 @@ exam_system as a database schema.
 database settings are in DatabaseClass.java.
 you can modify it or default settings are:
 db name:  exam_system
-user:     root
-pass:     root
+user:     Gitesh
+pass:     Gitesh
 
 insert your first user into the database and use the application.
 Thanks
